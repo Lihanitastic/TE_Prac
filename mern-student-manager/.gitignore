@@ -1,0 +1,10 @@
+# Ignore hidden files
+.cheatsheet.md
+
+# Ignore Node modules
+node_modules/
+
+# Ignore environment variables
+.env
+backend/.env
+frontend/.env
